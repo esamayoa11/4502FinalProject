@@ -1,0 +1,10 @@
+FILM: RAGIN BULL 
+GENRE: Drama, Action, History, Biopic, Sports 
+DIRECTOR: Martin Scorsese 
+CINEMATOGRAPHER: Michael Chapman 
+COLOR: Desaturated, Black and White 
+ASPECT RATIO: 1.85 - Spherical 
+FORMAT: Film - 35mm 
+CAMERA: Arriflex BL4, Arriflex BL 
+LENS: Zeiss Super Speed, Cooke Varotel Zoom lenses 
+FILM STOCK / RESOLUTION: 5222/7222 Kodak Double X

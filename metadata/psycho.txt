@@ -1,0 +1,10 @@
+FILM: PSYCHO 
+GENRE: Drama, Horror, Thriller, Psychological Horror, Slasher, Murder Mystery, Mystery, Crime, Serial Killer 
+DIRECTOR: Alfred Hitchcock 
+CINEMATOGRAPHER: John L. Russell 
+COLOR: Desaturated, Black and White 
+ASPECT RATIO: 1.85 
+FORMAT: Film - 35mm 
+CAMERA: Mitchell BNC 
+LENS: Bausch and Lomb - Original Baltar 
+FILM STOCK / RESOLUTION: 5222/7222 Kodak Double X, Tri-X 5233 320D/250T
