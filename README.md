@@ -15,10 +15,10 @@ This project investigates whether a minimal differentiable rendering pipeline—
 - Gradient-based inference can reveal measurable stylistic structure typically discussed only qualitatively.
 
 ## Final Project Paper
-Found in project folder 
+Found in project main folder 
 
-## Video Demonstration
-Found in project folder
+## Project Presentation
+Found in project main folder
 
 ## Repository Contents
 - `src/` – Python scripts, optimization loops, renderer code
